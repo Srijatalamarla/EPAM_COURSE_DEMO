@@ -10,7 +10,7 @@ This is added on June 10th
 this is a new line in a new feature
 added in new branch called feature
 changed on 22nd June 2024
-<<<<<<< HEAD
+
 
 
 another line to test 
@@ -19,5 +19,4 @@ another commit on the same day
 
 Hello all
 this is added on 26th june
-=======
->>>>>>> feature
+
